@@ -1,0 +1,3 @@
+displayName = Earth Mod
+author = multibanana
+version = 0.1
